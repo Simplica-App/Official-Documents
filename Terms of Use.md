@@ -6,27 +6,27 @@ Please read these Terms of Use ("Terms") carefully before using the Simplica iOS
 
 ## 1. Applicability and Acceptance
 
-### 1.1 These Terms constitute a legally binding agreement between you and Simplica regarding your use of the App. By using the App, you represent and warrant that you have the legal capacity to enter into these Terms and that you have read, understood, and agree to be bound by these Terms.
+1.1 These Terms constitute a legally binding agreement between you and Simplica regarding your use of the App. By using the App, you represent and warrant that you have the legal capacity to enter into these Terms and that you have read, understood, and agree to be bound by these Terms.
 
-### 1.2 If you are using the App on behalf of an organization or entity, you represent and warrant that you have the authority to bind such organization or entity to these Terms, and in such case, the terms "you" and "your" in these Terms will refer to both you and the organization or entity on whose behalf you are acting.
+1.2 If you are using the App on behalf of an organization or entity, you represent and warrant that you have the authority to bind such organization or entity to these Terms, and in such case, the terms "you" and "your" in these Terms will refer to both you and the organization or entity on whose behalf you are acting.
 
 ## 2. Access to the App
 
-### 2.1 License: Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the App for your personal or internal business purposes. This license does not grant you any rights to modify, distribute, reproduce, or create derivative works of the App.
+2.1 License: Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the App for your personal or internal business purposes. This license does not grant you any rights to modify, distribute, reproduce, or create derivative works of the App.
 
-### 2.2 Availability: We strive to provide uninterrupted access to the App. However, we do not guarantee that the App will always be available or that access will be uninterrupted, timely, or error-free. We may need to suspend or terminate access to the App for maintenance, upgrades, security reasons, or other unforeseen circumstances.
+2.2 Availability: We strive to provide uninterrupted access to the App. However, we do not guarantee that the App will always be available or that access will be uninterrupted, timely, or error-free. We may need to suspend or terminate access to the App for maintenance, upgrades, security reasons, or other unforeseen circumstances.
 
 ## 3. User Conduct
 
-### 3.1 Compliance: When using the App, you agree to comply with all applicable laws, regulations, and these Terms. You further agree not to engage in any activity that may disrupt or interfere with the proper functioning of the App or compromise its security.
+3.1 Compliance: When using the App, you agree to comply with all applicable laws, regulations, and these Terms. You further agree not to engage in any activity that may disrupt or interfere with the proper functioning of the App or compromise its security.
 
-### 3.2 Abnormal Use Patterns: We reserve the right to monitor user activity within the App. If we detect abnormal use patterns or suspicious behavior, we may block or restrict your access to the App without prior notice or liability. We will take reasonable measures to investigate and resolve any potential issues before taking such action.
+3.2 Abnormal Use Patterns: We reserve the right to monitor user activity within the App. If we detect abnormal use patterns or suspicious behavior, we may block or restrict your access to the App without prior notice or liability. We will take reasonable measures to investigate and resolve any potential issues before taking such action.
 
 ## 4. Intellectual Property
 
-### 4.1 Ownership: The App, including its content, features, and functionalities, is owned by Simplica and is protected by copyright, trademark, and other intellectual property laws. You acknowledge and agree that all intellectual property rights in the App are owned by or licensed to Simplica.
+4.1 Ownership: The App, including its content, features, and functionalities, is owned by Simplica and is protected by copyright, trademark, and other intellectual property laws. You acknowledge and agree that all intellectual property rights in the App are owned by or licensed to Simplica.
 
-### 4.2 Restrictions: You may not, directly or indirectly, reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the App, except as expressly permitted by these Terms or with our prior written consent.
+4.2 Restrictions: You may not, directly or indirectly, reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the App, except as expressly permitted by these Terms or with our prior written consent.
 
 ## 5. Disclaimer of Warranties
 
