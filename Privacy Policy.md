@@ -18,9 +18,9 @@ We may collect the following types of personal data from users of the App:
 
 The App uses the following third-party services that may collect personal data:
 
-- Google AdMob: We use Google AdMob to serve advertisements within the App. Google AdMob may collect personal data for targeted advertising purposes. Please refer to Google's Privacy Policy for more information on how they handle personal data: [Insert link to Google's Privacy Policy].
+- Google AdMob: We use Google AdMob to serve advertisements within the App. Google AdMob may collect personal data for targeted advertising purposes. Please refer to Google's Privacy Policy for more information on how they handle personal data: https://support.google.com/admob/answer/9755590?hl=en and https://support.google.com/admob/answer/6128543?hl=en.
 
-- OpenAI API: The App integrates with the OpenAI API to provide certain features and functionalities. OpenAI may collect personal data as described in their Privacy Policy. We recommend reviewing OpenAI's Privacy Policy for further details: [Insert link to OpenAI's Privacy Policy].
+- OpenAI API: The App integrates with the OpenAI API to provide certain features and functionalities. OpenAI may collect personal data as described in their Privacy Policy. We recommend reviewing OpenAI's Privacy Policy for further details: https://openai.com/policies/api-data-usage-policies.
 
 ## 2. Use of Personal Data
 
