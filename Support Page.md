@@ -18,4 +18,5 @@ Our support team will prioritize your request and strive to provide you with a s
 Thank you for choosing Simplica! We value your feedback and are committed to ensuring your experience with our iOS app is enjoyable and hassle-free.
 
 Best regards
+
 Simplica Support Team
